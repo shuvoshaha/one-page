@@ -8,7 +8,7 @@
 
 .page {
   height: 100vh;
-  background: linear-gradient(-80deg, #d66561, #e99176);
+  background: linear-gradient(-180deg, #d66561, #e99176);
   display: flex;
   justify-content: space-between;
   flex-direction: column;
